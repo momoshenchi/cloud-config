@@ -13,5 +13,5 @@ eureka:
   client:
     service-url:
       defaultZone: http://localhost:8762/eureka/,http://localhost:8761/eureka/
-name: order-service-default-25.0
+name: order-service-default-35.0
 password: '{cipher}AQAy88oTei8GmlEbT5a8Y6Scp3QJRmvZgpnL7TKxbWfhQnzkfPpaXHPTQn0sa1hBkaD0IZVbpHjZdk8CfMOj01UdDzUO3wDuOww1n3nhOgjD5e7VD6+bYaGreDrCT3R3tbDhy1jKwy8Y8wjf8fjrF9/Qgx37DUn6mb0bdIbFixV4gGwTLzVF6IWfvMSq1UEpv5MXSx7Z1e0dbixYQC4q+7gc0/ylEaJdR0XrsBMvP2b9Nb2TgaTUZ1/DPVYP+tcbSys0BlwgQvD19UG27noavz46W3uccW/4GAfIAGYzE5uSTObA0MOR2vN69dugCz9QEMOA8AxF8gdAfQ9dMw9AhSt0NbYJujLBYgJnKFf4jnTImRiQMVmTWujF4RdSlFg4eL4='
